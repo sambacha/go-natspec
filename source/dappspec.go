@@ -20,7 +20,7 @@
 // To install Dappspec, first make sure you have [Pygments](http://pygments.org/)
 // Then, with the go tool:
 //
-//     go get github.com/sambacha/dappspec
+//	go get github.com/sambacha/dappspec
 package main
 
 import (
